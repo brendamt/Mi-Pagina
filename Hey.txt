@@ -1,6 +1,6 @@
 <html>
 <head> ING </head>
 <body>
-<p>Bienvenidos</p>
+<p>Bienvenidos a todos los estudiantes de ingenieria 2</p>
 </body>
 </html>
